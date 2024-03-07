@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a 3rd year Management Information Systems student at
-Osmaniye Korkut Ata University.
+I am a 4th year student of Management Information Systems at Osmaniye Korkut Ata University.
 I am doing Consumer-oriented studies in the fields of Data Science
 and Marketing.
 I enjoy doing people-oriented works and getting to know human
