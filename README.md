@@ -9,9 +9,9 @@ I strive to learn and share new information every day by combining all these cur
 It has always been my dream to add value to our world, education, and humanity. Now, working towards my dreams makes me proud.
 
 
-LinkedIN: https://www.linkedin.com/in/onurcakili/
-Medium: https://medium.com/@onurcakili
-Gmail: onurcakili0@gmail.com
+LinkedIN: https://www.linkedin.com/in/onurcakili/  
+Medium: https://medium.com/@onurcakili  
+Gmail: onurcakili0@gmail.com  
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Data Science
