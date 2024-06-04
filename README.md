@@ -15,4 +15,4 @@ Gmail: onurcakili0@gmail.com
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me: onurcakili0@gmail.com
+- 📫 How to reach me: onurcakili0@gmail.com  
