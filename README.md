@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I am a 4th-year student of Management Information Systems at Osmaniye Korkut Ata University.  
-I am conducting consumer-oriented studies in the fields of Data Science and Marketing.  
-I enjoy working on people-oriented projects and learning about human psychology.  
-I have been actively involved in projects and trainings in the fields of software, hardware, statistics, and marketing, interacting closely with our esteemed faculty members throughout my education.  
-Apart from my academic life, I have had the opportunity to participate in many different projects as a freelancer.  
-I strive to learn and share new information every day by combining all these curiosities and interests with data.  
-It has always been my dream to add value to our world, education, and humanity. Now, working towards my dreams makes me proud.  
+I study Consumer-oriented fields, specializing in Data Science and Marketing, with a passion for 
+understanding human psychology. Throughout my education, I actively participated in projects and 
+training sessions covering software, hardware, statistics, and marketing, collaborating closely with 
+faculty. I've also engaged in various Freelancer projects, gaining valuable experience. Combining my 
+diverse interests with data, I strive to learn and teach daily, aiming to make a meaningful impact on 
+education and humanity.
 
 
 LinkedIN: https://www.linkedin.com/in/onurcakili/  
