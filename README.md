@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I study Consumer-oriented fields, specializing in Data Science and Marketing, with a passion for 
-understanding human psychology. Throughout my education, I actively participated in projects and 
-training sessions covering software, hardware, statistics, and marketing, collaborating closely with 
-faculty. I've also engaged in various Freelancer projects, gaining valuable experience. Combining my 
-diverse interests with data, I strive to learn and teach daily, aiming to make a meaningful impact on 
-education and humanity.
+ As a Data Scientist, I specialize in extracting insights from data to drive decision-making. With
+ expertise in machine learning, data analysis, and statistical modeling, I create solutions that
+ align with business objectives. I utilize tools like Python, MSSQL, Power BI, Qlik View, and Qlik
+ Sense to uncover valuable insights from complex datasets. My experience spans
+ telecommunications, finance, and marketing, where I’ve applied techniques such as customer
+ segmentation, sales forecasting, recommendation systems, and A/B testing.
 
 
-LinkedIN: https://www.linkedin.com/in/onurcakili/  
+LinkedIN: https://www.linkedin.com/in/onurcakili/
+Kaggle: https://www.kaggle.com/onurcakili
 Medium: https://medium.com/@onurcakili  
 Gmail: onurcakili0@gmail.com  
 
