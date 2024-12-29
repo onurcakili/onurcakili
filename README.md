@@ -8,10 +8,10 @@
  segmentation, sales forecasting, recommendation systems, and A/B testing.
 
 
-LinkedIN: https://www.linkedin.com/in/onurcakili/
-Kaggle: https://www.kaggle.com/onurcakili
-Medium: https://medium.com/@onurcakili  
-Gmail: onurcakili0@gmail.com  
+LinkedIN: https://www.linkedin.com/in/onurcakili/  
+Kaggle: https://www.kaggle.com/onurcakili  
+Medium: https://medium.com/@onurcakili      
+Gmail: onurcakili0@gmail.com   
 
 - 🔭 I’m currently working on Data Science,
 - 🌱 I’m currently learning Data Science,
