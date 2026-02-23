@@ -22,9 +22,9 @@ Git, Azure DevOps, Agile/Scrum, ETL Processes, SFTP, Statistical Analysis, EDA, 
 
 ## Accounts 
 LinkedIN: https://www.linkedin.com/in/onurcakili/  
-Kaggle: https://www.kaggle.com/onurcakili  
-Medium: https://medium.com/@onurcakili      
-Gmail: onurcakili0@gmail.com   
+Kaggle  : https://www.kaggle.com/onurcakili  
+Medium  : https://medium.com/@onurcakili      
+Gmail   : onurcakili0@gmail.com   
 
 - 🔭 I’m currently working on Data Science,
 - 🌱 I’m currently learning Data Science,
