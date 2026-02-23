@@ -20,6 +20,7 @@ Power BI, Qlik Sense, Qlik View, SSRS, Excel
 ##### Tools & Methods: 
 Git, Azure DevOps, Agile/Scrum, ETL Processes, SFTP, Statistical Analysis, EDA, Data Visualization
 
+## Accounts 
 LinkedIN: https://www.linkedin.com/in/onurcakili/  
 Kaggle: https://www.kaggle.com/onurcakili  
 Medium: https://medium.com/@onurcakili      
