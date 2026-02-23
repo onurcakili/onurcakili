@@ -8,16 +8,16 @@ Build automated reporting systems and executive-ready dashboards that support da
 monitoring, enabling timely, data-driven decision-making.
 
 ### TECHNICAL SKILLS
-# Programming: 
+#### Programming: 
 Python (Data Analysis, ML, Web Scraping), SQL (MSSQL, MySQL), API Integration
 
-# Analytics & ML: 
+##### Analytics & ML: 
 A/B Testing, Customer Segmentation, Classification, Regression, Clustering (K-Means), Recommendation Systems
 
-# Data & BI Tools: 
+##### Data & BI Tools: 
 Power BI, Qlik Sense, Qlik View, SSRS, Excel
 
-# Tools & Methods: 
+##### Tools & Methods: 
 Git, Azure DevOps, Agile/Scrum, ETL Processes, SFTP, Statistical Analysis, EDA, Data Visualization
 
 LinkedIN: https://www.linkedin.com/in/onurcakili/  
