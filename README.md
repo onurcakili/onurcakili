@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 Data Analyst with 2+ years of experience delivering data analytics and reporting solutions that bridge the gap between
 business and technology.
@@ -7,7 +7,7 @@ ensuring consistent and reliable reporting.
 Build automated reporting systems and executive-ready dashboards that support daily, weekly, and strategic performance
 monitoring, enabling timely, data-driven decision-making.
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 #### Programming: 
 Python (Data Analysis, ML, Web Scraping), SQL (MSSQL, MySQL), API Integration
 
@@ -30,8 +30,8 @@ Gmail: onurcakili0@gmail.com
 - 📫 How to reach me: onurcakili0@gmail.com  
 
 
-# Data Science Portfolio
-## Table of Contents
+## Data Science Portfolio
+### Table of Contents
 
 ### 1. [Customer Analytics](https://github.com/onurcakili/Data-Science-Repository/tree/main/01_customer_analytics)
 
