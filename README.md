@@ -1,12 +1,24 @@
 ### Hi there 👋
 
- As a Data Scientist, I specialize in extracting insights from data to drive decision-making. With
- expertise in machine learning, data analysis, and statistical modeling, I create solutions that
- align with business objectives. I utilize tools like Python, MSSQL, Power BI, Qlik View, and Qlik
- Sense to uncover valuable insights from complex datasets. My experience spans
- telecommunications, finance, and marketing, where I’ve applied techniques such as customer
- segmentation, sales forecasting, recommendation systems, and A/B testing.
+Data Analyst with 2+ years of experience delivering data analytics and reporting solutions that bridge the gap between
+business and technology.
+Design and maintain scalable data pipelines that integrate multi-source data into centralized data warehouse structures,
+ensuring consistent and reliable reporting.
+Build automated reporting systems and executive-ready dashboards that support daily, weekly, and strategic performance
+monitoring, enabling timely, data-driven decision-making.
 
+### TECHNICAL SKILLS
+# Programming: 
+Python (Data Analysis, ML, Web Scraping), SQL (MSSQL, MySQL), API Integration
+
+# Analytics & ML: 
+A/B Testing, Customer Segmentation, Classification, Regression, Clustering (K-Means), Recommendation Systems
+
+# Data & BI Tools: 
+Power BI, Qlik Sense, Qlik View, SSRS, Excel
+
+# Tools & Methods: 
+Git, Azure DevOps, Agile/Scrum, ETL Processes, SFTP, Statistical Analysis, EDA, Data Visualization
 
 LinkedIN: https://www.linkedin.com/in/onurcakili/  
 Kaggle: https://www.kaggle.com/onurcakili  
